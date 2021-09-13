@@ -35,5 +35,8 @@ THEN the password is either displayed in an alert or written to the page
 * CSS
 * JAVASCRIPT 
 
+## Sample 
+
+![Screen Shot 2021-09-12 at 8 29 55 PM](https://user-images.githubusercontent.com/87919117/133008112-5725f346-0736-4d57-9315-8b461dcfa4cb.png)
 
 
